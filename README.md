@@ -4,5 +4,5 @@ See https://support.lucidworks.com/s/case/5002E00001LFhXnQAL/get-original-url-in
 
 ```bash
 npm install
-nodejs index.js
+npm start
 ```
